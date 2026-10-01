@@ -1,0 +1,13 @@
+.summary-cards{
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+   gap: 1rem;
+}
+/* for mobile screen: */
+@media (max-width:768px){
+   .summary-cards{
+   
+   grid-template-columns:1fr;
+   
+}
+}
