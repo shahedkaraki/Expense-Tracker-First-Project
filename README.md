@@ -2,7 +2,7 @@
 
 Expense Tracker is a web application for managing personal expenses. It allows users to add, edit, delete, and filter expenses, while displaying summary information such as the total amount, number of expenses, and highest expense.
 
-##GitHub Repository 
+## GitHub Repository 
 [Expense Tracker GitHub Repository](https://github.com/shahedkaraki/Expense-Tracker-First-Project.git)
 
 
